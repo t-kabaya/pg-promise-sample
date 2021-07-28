@@ -1,0 +1,9 @@
+{
+  "name": "pg-promiseSample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "pg-promise": "^10.10.2"
+  }
+}
